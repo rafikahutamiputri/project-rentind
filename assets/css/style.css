@@ -1353,12 +1353,20 @@ video {
     margin-top: 1.25rem;
   }
 
+  .sm\:mr-4 {
+    margin-right: 1rem;
+  }
+
   .sm\:mt-32 {
     margin-top: 8rem;
   }
 
   .sm\:inline-grid {
     display: inline-grid;
+  }
+
+  .sm\:hidden {
+    display: none;
   }
 
   .sm\:h-\[16px\] {
